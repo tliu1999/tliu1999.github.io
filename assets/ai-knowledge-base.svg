@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Personal knowledge base illustration</title>
+  <desc id="desc">A searchable personal knowledge library with notes and tags.</desc>
+  <rect width="720" height="420" rx="18" fill="#f7f4ed"/>
+  <path d="M0 286c71-24 134-28 220-7 110 28 183 8 267-31 72-33 142-37 233-9v181H0z" fill="#ece4d3"/>
+  <rect x="58" y="54" width="604" height="312" rx="16" fill="#fff" stroke="#dfd5c2"/>
+  <rect x="86" y="86" width="168" height="248" rx="12" fill="#102522"/>
+  <rect x="112" y="118" width="82" height="12" rx="6" fill="#86d7ca"/>
+  <rect x="112" y="154" width="110" height="34" rx="8" fill="#f6fbf9" opacity=".92"/>
+  <circle cx="134" cy="171" r="8" fill="none" stroke="#0b4f4a" stroke-width="4"/>
+  <path d="M141 178l10 10" stroke="#0b4f4a" stroke-width="4" stroke-linecap="round"/>
+  <rect x="112" y="220" width="92" height="20" rx="10" fill="#86d7ca"/>
+  <rect x="112" y="252" width="120" height="20" rx="10" fill="#d7ebe6"/>
+  <rect x="112" y="284" width="78" height="20" rx="10" fill="#d7ebe6"/>
+  <rect x="294" y="92" width="142" height="120" rx="14" fill="#fef8e9" stroke="#ead7ad"/>
+  <rect x="318" y="122" width="78" height="12" rx="6" fill="#c4822b"/>
+  <rect x="318" y="154" width="94" height="8" rx="4" fill="#cbb995"/>
+  <rect x="318" y="176" width="70" height="8" rx="4" fill="#d8c8aa"/>
+  <rect x="468" y="118" width="142" height="120" rx="14" fill="#eff7f4" stroke="#cbd9d3"/>
+  <rect x="492" y="148" width="82" height="12" rx="6" fill="#0f766e"/>
+  <rect x="492" y="180" width="88" height="8" rx="4" fill="#9fb8ae"/>
+  <rect x="492" y="202" width="62" height="8" rx="4" fill="#b9cac3"/>
+  <rect x="318" y="252" width="266" height="58" rx="14" fill="#f8fbf9" stroke="#d8e3de"/>
+  <rect x="344" y="274" width="84" height="14" rx="7" fill="#0b4f4a"/>
+  <rect x="450" y="274" width="56" height="14" rx="7" fill="#c4822b"/>
+  <rect x="528" y="274" width="32" height="14" rx="7" fill="#2563eb"/>
+  <path d="M392 252v-40M526 252v-14" stroke="#b9cac3" stroke-width="6" stroke-linecap="round"/>
+</svg>

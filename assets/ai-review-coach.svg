@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Knowledge review coach illustration</title>
+  <desc id="desc">A quiz card, progress tracker, and feedback cards.</desc>
+  <rect width="720" height="420" rx="18" fill="#f3f6fb"/>
+  <path d="M0 96c87 28 154 25 242 0 107-31 189-46 286-10 65 24 119 21 192-4v338H0z" fill="#e5edf7"/>
+  <rect x="58" y="54" width="604" height="312" rx="16" fill="#fff" stroke="#d5deeb"/>
+  <rect x="86" y="86" width="162" height="248" rx="12" fill="#102522"/>
+  <circle cx="128" cy="128" r="28" fill="#86d7ca"/>
+  <path d="M116 127c0-9 6-16 16-16s16 7 16 15c0 7-4 11-10 15l-6 4v9" fill="none" stroke="#102522" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="132" cy="170" r="4" fill="#102522"/>
+  <rect x="112" y="208" width="94" height="10" rx="5" fill="#d7ebe6"/>
+  <rect x="112" y="234" width="72" height="10" rx="5" fill="#86d7ca"/>
+  <rect x="112" y="260" width="110" height="10" rx="5" fill="#d7ebe6"/>
+  <rect x="112" y="286" width="82" height="10" rx="5" fill="#d7ebe6"/>
+  <rect x="288" y="86" width="346" height="118" rx="14" fill="#f8fbff" stroke="#d5deeb"/>
+  <rect x="320" y="118" width="178" height="14" rx="7" fill="#0b4f4a"/>
+  <rect x="320" y="154" width="260" height="10" rx="5" fill="#aab9ca"/>
+  <rect x="320" y="176" width="196" height="10" rx="5" fill="#c5cfdd"/>
+  <rect x="288" y="230" width="104" height="104" rx="12" fill="#f8fbff" stroke="#d5deeb"/>
+  <rect x="410" y="230" width="104" height="104" rx="12" fill="#f8fbff" stroke="#d5deeb"/>
+  <rect x="532" y="230" width="104" height="104" rx="12" fill="#f8fbff" stroke="#d5deeb"/>
+  <path d="M318 282l17 17 32-42" fill="none" stroke="#0f766e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M446 264l32 32M478 264l-32 32" stroke="#c4822b" stroke-width="10" stroke-linecap="round"/>
+  <rect x="558" y="262" width="52" height="12" rx="6" fill="#2563eb"/>
+  <rect x="558" y="288" width="34" height="12" rx="6" fill="#86d7ca"/>
+</svg>

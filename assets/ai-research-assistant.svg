@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">AI research reading assistant illustration</title>
+  <desc id="desc">A paper reader, retrieval nodes, and an AI answer panel.</desc>
+  <rect width="720" height="420" rx="18" fill="#eef6f2"/>
+  <path d="M0 300c94-26 146-13 222-42 81-31 117-91 211-88 101 4 138 77 287 41v209H0z" fill="#dcebe5"/>
+  <rect x="58" y="54" width="604" height="312" rx="16" fill="#fff" stroke="#cbd9d3"/>
+  <rect x="86" y="86" width="218" height="248" rx="10" fill="#f8fbf9" stroke="#d8e3de"/>
+  <rect x="112" y="112" width="166" height="20" rx="4" fill="#0b4f4a"/>
+  <rect x="112" y="150" width="136" height="8" rx="4" fill="#9fb8ae"/>
+  <rect x="112" y="170" width="154" height="8" rx="4" fill="#b9cac3"/>
+  <rect x="112" y="190" width="118" height="8" rx="4" fill="#b9cac3"/>
+  <rect x="112" y="230" width="166" height="72" rx="8" fill="#e7f0ec" stroke="#cbd9d3"/>
+  <path d="M132 282l34-34 28 25 32-38 32 47z" fill="#73aaa0"/>
+  <circle cx="228" cy="248" r="10" fill="#c4822b"/>
+  <rect x="342" y="86" width="292" height="82" rx="12" fill="#102522"/>
+  <rect x="368" y="112" width="120" height="12" rx="6" fill="#86d7ca"/>
+  <rect x="368" y="138" width="220" height="8" rx="4" fill="#d7ebe6"/>
+  <rect x="342" y="194" width="132" height="112" rx="12" fill="#f8fbf9" stroke="#d8e3de"/>
+  <rect x="502" y="194" width="132" height="112" rx="12" fill="#f8fbf9" stroke="#d8e3de"/>
+  <circle cx="408" cy="238" r="24" fill="#0f766e"/>
+  <circle cx="568" cy="238" r="24" fill="#2563eb"/>
+  <path d="M408 262v20M568 262v20M432 238h112" stroke="#9fb8ae" stroke-width="8" stroke-linecap="round"/>
+  <rect x="372" y="286" width="72" height="8" rx="4" fill="#b9cac3"/>
+  <rect x="532" y="286" width="72" height="8" rx="4" fill="#b9cac3"/>
+  <rect x="350" y="322" width="270" height="14" rx="7" fill="#d8e3de"/>
+  <rect x="350" y="322" width="198" height="14" rx="7" fill="#0f766e"/>
+</svg>
